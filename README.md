@@ -1,6 +1,6 @@
 ## ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition
 
-Sync updates on https://github.com/haomo-ai/ModaLink
+> Sync updates on https://github.com/haomo-ai/ModaLink
 
 *  We propose a lightweight cross-modal place recognition method called ModaLink based on FoV transformation. 
 *  We introduce a Non-Negative Matrix Factorization-based module to extract extra potential semantic features to improve the distinctiveness of descriptors.
